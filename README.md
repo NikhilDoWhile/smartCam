@@ -21,6 +21,8 @@ Human sensing (also called human detection or human presence detection) encompas
 4. ### Number Plate Detection- 
 An exponential increase in number of vehicles necessitates the use of automated systems to maintain vehicle information. The information is highly required for both management of traffic as well as reduction of crime. Number plate recognition is an effective way for automatic vehicle identification.
 
+5. ### Vehicle Detection
+
 ## Techniques we have identified for our implementation are: 
 
 *  ### Canny Edge Detection- 
