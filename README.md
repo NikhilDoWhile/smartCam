@@ -27,6 +27,9 @@ An exponential increase in number of vehicles necessitates the use of automated 
 
 7. ### Anticipating Accidents
 
+8. ### Semantic Video Segmentation
+
+
 ## Techniques we have identified for our implementation are: 
 
 *  ### Canny Edge Detection- 
