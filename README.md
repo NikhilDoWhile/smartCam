@@ -23,6 +23,8 @@ An exponential increase in number of vehicles necessitates the use of automated 
 
 5. ### Vehicle Detection
 
+6. ### Traffic Light Detection
+
 ## Techniques we have identified for our implementation are: 
 
 *  ### Canny Edge Detection- 
