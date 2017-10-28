@@ -9,17 +9,18 @@ Using techniques of artificial intelligence and computer vision in the field of 
 Larger portion of vehicles nowadays are equipped with dash cameras, which continuously record and store traffic. Also there are multiple cctv cameras placed along highways and other paths which are used by government and private organizations to monitor traffic activities, illegal activities etc. Also the self driving vehicles like of Tesla use camera and few other sensors for automating driving and parking. This helps in prevention of accidents, better utilization of resources, automation and could lead to monetary gains. We we use dash camera videos, relevant cctv footages and images to implement our model/algorithm.   
 
 ## Our objective is to implement:
+
 1. ### Lane Detection-
 Lane detection is a well-researched area of computer vision with applications in autonomous vehicles and driver support systems.Road lane detection can serve as a virtual assistance for drivers and can reduce car accidents. Our model would be accurate enough to detect the central line and the accurate left and right boundaries of the lane.
 
-2. ### Sign Detection-
+2. ### Number Plate Detection- 
+An exponential increase in number of vehicles necessitates the use of automated systems to maintain vehicle information. The information is highly required for both management of traffic as well as reduction of crime. Number plate recognition is an effective way for automatic vehicle identification.
+
+3. ### Sign Detection-
 Automatic traffic sign detection and recognition is an. important part of an advanced driver assistance system. Traffic symbols have several distinguishing features that may be used for their detection and identification.
 
-3. ### Human Detection- 
+4. ### Human Detection- 
 Human sensing (also called human detection or human presence detection) encompasses a range of technologies for detecting the presence of a human body in an area of space, typically without the intentional participation of the detected person.
-
-4. ### Number Plate Detection- 
-An exponential increase in number of vehicles necessitates the use of automated systems to maintain vehicle information. The information is highly required for both management of traffic as well as reduction of crime. Number plate recognition is an effective way for automatic vehicle identification.
 
 5. ### Vehicle Detection
 
