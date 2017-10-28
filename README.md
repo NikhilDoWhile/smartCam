@@ -87,20 +87,3 @@ It has been widely used in several key aspects of computer vision and is an inte
 
 
 
-
-## Bibliography:
-
-* A learning approach towards detection and tracking of lane markings;Raghuraman Gopalan, Member, IEEE, Tsai Hong, Michael Shneier, and Rama Chellappa, Fellow, IEEE, Published in: IEEE Transactions on Intelligent Transportation Systems ( Volume: 13, Issue: 3, Sept. 2012 )
-
-* Research on lane detection technology based on openCV; Zu Yang, Zhang Ling,Published in: 3rd International Conference on Mechanical Engineering and Intelligent Systems (ICMEIS 2015)
-
-* A Vision Based Lane Detection and Tracking Algorithm in Automatic Drive; Wenhong Zhu ;  Fuqiang Liu ;  Xinhong Wang ;  Shanshan Zhang, Published in: Computational Intelligence and Industrial Application, 2008. PACIIA '08
-
-* DeepLanes: End-To-End Lane Position Estimation using Deep Neural Networks; Alexandru Gurghian, Tejaswi Koduri, Smita V. Bailur, Kyle J. Carey, Vidya N. Murali, Published in: Computer Vision and Pattern Recognition Workshops (CVPRW), 2016 IEEE Conference
-
-*  Learning to Predict Where Humans Look; T. Judd, K. Ehinger, F. Durand, A. Torralba, Published in: International Conference on Computer Vision (ICCV) 2009
-
-*  Small codes and large databases for recognition. Torralba, Fergus, Weiss, Published in: Computer Vision and Pattern Recognition, 2008. CVPR 2008. IEEE Conference
-
-* Describing Objects by their Attributes. Farhadi, Endres, Hoiem, Forsyth, Published in: Computer Vision and Pattern Recognition, 2009. CVPR 2009. IEEE Conference
-
