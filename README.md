@@ -30,6 +30,7 @@ Human sensing (also called human detection or human presence detection) encompas
 
 8. ### Semantic Video Segmentation
 
+9. ### Toll Collection Automation
 
 ## Techniques we have identified for our implementation are: 
 
